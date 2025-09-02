@@ -18,6 +18,12 @@ Syntax highlighted code block
 - Bulleted
 - List
 
+# Weston Gray's First CS193 Homework
+- It will prepasre me for my CS classes
+- The teachers seem great
+- The information is very useful
+- The people in the class seem awesome
+
 1. Numbered
 2. List
 
